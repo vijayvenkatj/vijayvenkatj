@@ -3,8 +3,7 @@
 ## About Me
 - I am a student @ Indian Institute of Information Technology
 - I am passionate about Web Development, VaPT and DevSecOps
-- [https://vijayvenkatj.me]
-
+  
 ## Contacts
 <a href="https://www.linkedin.com/in/vijayvenkatj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
