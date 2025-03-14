@@ -46,7 +46,6 @@
 <a href="https://tryhackme.com/p/Vijayvenkatj">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arcticons-white_tryhackme.svg/640px-Arcticons-white_tryhackme.svg.png" alt="TryHackMe" height="45" width="55"/>
 </a><br>
-🏆 **CTF Team:** *Placeholders*
 
 
 <!---
