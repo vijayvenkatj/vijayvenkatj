@@ -32,9 +32,6 @@
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayvenkatj&show_icons=true&theme=catppuccin_mocha&rank_icon=github&hide=issues" alt="GitHub Stats"/>
   </a>
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvenkatj&layout=compact&langs_count=6&theme=catppuccin_mocha" alt="Top Languages"/>
-  </a>
 </div>
 
 ---
