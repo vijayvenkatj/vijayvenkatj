@@ -1,5 +1,3 @@
-# 👨‍💻 Hello, I'm Vijay Venkat J
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;CTF+Player+%F0%9F%8F%86)](https://git.io/typing-svg)
