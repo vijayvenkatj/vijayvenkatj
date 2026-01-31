@@ -10,36 +10,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=go,typescript,cpp,nodejs,nextjs,react" />
-
-### 🛠️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,bash" />
-
-### 🛡️ Security Arsenal
-<img src="https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vijayvenkatj&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&border_color=00FF7F&hide_border=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayvenkatj&theme=radical&background=0D1117&border=00FF7F&stroke=00FF7F&ring=00FF7F&fire=FF6B35&currStreakLabel=00FF7F&hide_border=true" alt="GitHub Streak" width="49%" />
-
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -57,11 +27,11 @@
 </td>
 <td width="50%">
 
-### 🔐 Cypher-CLI
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijayvenkatj&repo=cypher-cli&theme=radical&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&border_color=00FF7F&hide_border=true)](https://github.com/vijayvenkatj/cypher-cli)
+### 🔐 EnvCrypt
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EnvCrypts&repo=envcrypt-cli&theme=radical&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&border_color=00FF7F&hide_border=true)](https://github.com/EnvCrypts/envcrypt-cli)
 
 **Go • Security • CLI**  
-🛡️ Client-only password manager with zero-knowledge architecture
+🛡️ Securely manage, encrypt, and version your environment variables with zero trust architecture.
 
 </td>
 </tr>
