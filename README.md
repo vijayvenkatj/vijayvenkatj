@@ -8,38 +8,6 @@
 
 </div>
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎥 LiveTran
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=livetran&repo=livetran&theme=radical&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&border_color=00FF7F&hide_border=true)](https://github.com/livetran/livetran)
-
-**Go • HTTP/2 • Streaming**  
-🚀 High-performance live video streaming server with low-latency distributed architecture
-
-</td>
-<td width="50%">
-
-### 🔐 EnvCrypt
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EnvCrypts&repo=envcrypt-cli&theme=radical&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&border_color=00FF7F&hide_border=true)](https://github.com/EnvCrypts/envcrypt-cli)
-
-**Go • Security • CLI**  
-🛡️ Securely manage, encrypt, and version your environment variables with zero trust architecture.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🏆 Achievements
 
