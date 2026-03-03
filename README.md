@@ -1,7 +1,5 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;CTF+Player+%F0%9F%8F%86)](https://git.io/typing-svg)
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vijayvenkatj&color=00ff7f&style=for-the-badge&label=PROFILE+VIEWS)
